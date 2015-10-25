@@ -15,5 +15,6 @@ Running the run_analysis.R script
 > 5) source("run_analysis.R")
 
 > 6) if you want to know how it works, you can see the file 'run_analysis.R' on your Rstudio
-     you can read annotaions to understand how it works.
+
+> 7) then, you can read annotaions to understand how it works.
      
