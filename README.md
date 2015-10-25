@@ -6,11 +6,13 @@ Running the run_analysis.R script
 
 > 1) unzip the 'getdata-projectfiles-UCI HAR Dataset.zip' from coursera
 
-> 2) make the folder of (1) working directory
+> 2) make the folder of (1) working directory ; getdata-projectfiles-UCI HAR Dataset is new working directory
 
 > 3) start R from the command line
 
-> 4) source("run_analysis.R") 
+> 4) you need to install the packages ; data.table, reshape2, dplyr
+
+> 5) source("run_analysis.R")
 
 Codebook for Coursera Course
 ========================
