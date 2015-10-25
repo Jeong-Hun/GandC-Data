@@ -21,9 +21,7 @@
 packages <- c("data.table", "reshape2", "dplyr")
 sapply(packages, require, character.only=TRUE, quietly=TRUE)
 
-# Assumes the Git repository : https://github.com/Jeong-Hun/GandC-Data
-# has been cloned to a users local machine, and the R, setwd(), has been used 
-# to set the working directory to the root of this cloned repository.
+
 path <- getwd()
 
 # Give warning to set the working directory if not able to find data files.
